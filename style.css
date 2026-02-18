@@ -9,7 +9,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(#008080,#38ceb9,#00cdcd);
+    background: #008080;
     /* background: choose your own background color */
     display: flex;
     justify-content: center;
